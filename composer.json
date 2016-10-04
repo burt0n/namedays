@@ -1,0 +1,14 @@
+{
+	"name": "burt0n/namedays",
+	"type": "library",
+	"description": "Namedays list",
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "Burt0n",
+			"email": "ncom3000@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
